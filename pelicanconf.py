@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 #
 AUTHOR = u'Marianne Maertens, Guillermo Aguilar, and Rebecca Hesse'
 SITENAME = u'Ethikkommission - Fakultät IV -  TU Berlin'
-SITETITLE = u'Ethikkommission <br/>Fakultät IV'
-SITESUBTITLE = u'TU Berlin'
+SITETITLE = u'Ethik-Kommission'
+SITESUBTITLE = u'der Fakultät IV'
 SITEURL = 'ethikkommission.eecs.tu-berlin.de'
 
 FAVICON = SITEURL + '/img/favicon.ico'
@@ -40,8 +40,8 @@ AUTHOR_FEED_RSS = None
 # Configure the site
 #
 STATIC_PATHS = ['img', 'files']
-MENUITEMS = (('Home', 'index.html'),
-             ('Contact', 'contact.html')
+MENUITEMS = (('Information', 'index.html'),
+             ('Unterlagen', 'unterlagen.html')
 )
 
 DEFAULT_PAGINATION = False
