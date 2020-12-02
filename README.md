@@ -1,6 +1,10 @@
-# Source for ethikkommission.eecs.tu-berlin.de #
+# This repository has been superseded by a new system: Themis #
 
-This repository contains the sources and assets for the website of the
+https://gitlab.tubit.tu-berlin.de/themis/themis
+
+# OLD Source for ethikkommission.eecs.tu-berlin.de #
+
+This repository contained the sources and assets for the website of the
 Ethikkommission of the Faculty IV at the Techniche Universität Berlin
 (http://ethikkommission.eecs.tu-berlin.de).
 
